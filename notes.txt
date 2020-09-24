@@ -1,0 +1,20 @@
+
+admin
+CRm1hozhAK5fxReG
+
+cd into front and back ends
+
+// start front end
+npm start
+
+// start back end
+nodemon server.js
+
+ToDo:
+
+Look up axios and Pusher.com tutorials
+
+fix form submission (? done )
+add firesbase auth to replace hard coded name etc... look at YT 
+Add end to end encryption / other
+Add multiple chatroom support
